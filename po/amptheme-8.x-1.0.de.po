@@ -1,10 +1,10 @@
 # German translation of AMP Theme (8.x-1.0)
-# Copyright (c) 2016 by the German translation team
+# Copyright (c) 2017 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: AMP Theme (8.x-1.0)\n"
-"POT-Creation-Date: 2016-07-02 00:44+0000\n"
+"POT-Creation-Date: 2017-07-23 05:14+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -18,3 +18,5 @@ msgid "Custom"
 msgstr "Benutzerdefiniert"
 msgid "Skip to main content"
 msgstr "Direkt zum Inhalt"
+msgid "Submitted by @author_name on @date"
+msgstr "Gespeichert von @author_name am @date"
