@@ -1,10 +1,10 @@
 # German translation of Purge (8.x-3.0-beta8)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Purge (8.x-3.0-beta8)\n"
-"POT-Creation-Date: 2017-11-22 12:38+0000\n"
+"POT-Creation-Date: 2018-01-28 08:03+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Tag"
 msgid "installed"
 msgstr "installiert"
 msgid "Label"
-msgstr "Beschriftung"
+msgstr "Bezeichnung"
 msgid "Save"
 msgstr "Speichern"
 msgid "Add"

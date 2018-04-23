@@ -1,10 +1,10 @@
 # German translation of Slick Carousel (8.x-1.0)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Slick Carousel (8.x-1.0)\n"
-"POT-Creation-Date: 2017-10-13 22:39+0000\n"
+"POT-Creation-Date: 2018-01-28 11:23+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -33,7 +33,7 @@ msgstr "Einstellungen"
 msgid "Name"
 msgstr "Name"
 msgid "Label"
-msgstr "Beschriftung"
+msgstr "Bezeichnung"
 msgid "Default"
 msgstr "Standard"
 msgid "Top"

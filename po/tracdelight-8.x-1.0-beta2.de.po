@@ -1,10 +1,10 @@
 # German translation of tracdelight (8.x-1.0-beta2)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: tracdelight (8.x-1.0-beta2)\n"
-"POT-Creation-Date: 2017-06-04 22:39+0000\n"
+"POT-Creation-Date: 2018-01-17 16:08+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -74,5 +74,9 @@ msgid "UUID"
 msgstr "UUID"
 msgid "Product list"
 msgstr "Produktliste"
+msgid "The time that the entity was created."
+msgstr "Der Erstellungszeitpunkt der Entität."
+msgid "The time that the entity was last edited."
+msgstr "Der letzte Aktualisierungszeitpunkt der Entität."
 msgid "content @type: deleted @label."
 msgstr "Inhalt @type: @label wurde gelöscht."
