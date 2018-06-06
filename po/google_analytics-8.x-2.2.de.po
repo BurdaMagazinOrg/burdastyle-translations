@@ -1,10 +1,10 @@
 # German translation of Google Analytics (8.x-2.2)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Google Analytics (8.x-2.2)\n"
-"POT-Creation-Date: 2017-09-25 21:44+0000\n"
+"POT-Creation-Date: 2018-06-04 02:03+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -307,5 +307,9 @@ msgid "Outbound links"
 msgstr "Ausgehende Links"
 msgid "Mailto links"
 msgstr "Mailto-Links"
+msgid "Google Analytics settings"
+msgstr "Google-Analytics-Einstellungen"
+msgid "The %element-title field contains invalid input."
+msgstr "Das Feld  %element-title enthält eine ungültige Eingabe."
 msgid "Requires: @module-list"
 msgstr "Benötigt: @module-list"
