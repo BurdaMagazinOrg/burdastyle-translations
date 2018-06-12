@@ -1,10 +1,10 @@
 # German translation of Riddle Marketplace (8.x-2.0-beta1)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Riddle Marketplace (8.x-2.0-beta1)\n"
-"POT-Creation-Date: 2017-05-31 12:44+0000\n"
+"POT-Creation-Date: 2018-06-10 18:18+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -20,3 +20,15 @@ msgid "Riddles"
 msgstr "Rätsel"
 msgid "API URL"
 msgstr "API-URL"
+msgid "Field with source information"
+msgstr "Feld der Quellangaben"
+msgid "Link to the thumbnail"
+msgstr "Link zum Vorschaubild"
+msgid "Copies thumbnail locally and return it's URI"
+msgstr ""
+"Speichert eine Kopie des Vorschaubildes lokal und gibt die URI "
+"zurück."
+msgid "Returns local URI of the thumbnail"
+msgstr "Gibt den Lokalen URI des Vorschaubildes zurück"
+msgid "Base folder for thumbnails"
+msgstr "Basisverzeichnis für Vorschaubilder"

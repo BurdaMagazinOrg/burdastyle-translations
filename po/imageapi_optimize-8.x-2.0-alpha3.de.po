@@ -1,10 +1,10 @@
 # German translation of Image Optimize (or ImageAPI Optimize) (8.x-2.0-alpha3)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Image Optimize (or ImageAPI Optimize) (8.x-2.0-alpha3)\n"
-"POT-Creation-Date: 2017-11-21 20:49+0000\n"
+"POT-Creation-Date: 2018-06-10 17:54+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -25,7 +25,7 @@ msgstr "Deaktiviert"
 msgid "Edit"
 msgstr "Bearbeiten"
 msgid "- None -"
-msgstr "- Keine -"
+msgstr "- Keiner -"
 msgid "Weight"
 msgstr "Gewichtung"
 msgid "Add"
