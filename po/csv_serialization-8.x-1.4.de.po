@@ -1,10 +1,10 @@
-# German translation of Default Content for D8 (8.x-1.0-alpha7)
+# German translation of CSV Serialization (8.x-1.4)
 # Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Default Content for D8 (8.x-1.0-alpha7)\n"
-"POT-Creation-Date: 2018-07-15 20:18+0000\n"
+"Project-Id-Version: CSV Serialization (8.x-1.4)\n"
+"POT-Creation-Date: 2018-07-17 15:46+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -12,7 +12,5 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-msgid "The name of the module."
-msgstr "Der Name des Moduls."
 msgid "Web services"
 msgstr "Webservices"

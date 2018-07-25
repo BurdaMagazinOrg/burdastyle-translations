@@ -1,10 +1,10 @@
 # German translation of File metadata manager (8.x-1.1)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: File metadata manager (8.x-1.1)\n"
-"POT-Creation-Date: 2017-02-28 09:43+0000\n"
+"POT-Creation-Date: 2018-07-24 21:43+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -19,6 +19,8 @@ msgstr "Nie"
 msgid "Cache settings"
 msgstr "Cache einstellen"
 msgid "Excluded paths"
-msgstr "Pfade ausschließen"
+msgstr "Ausgeschlossene Pfade"
 msgid "EXIF"
 msgstr "EXIF"
+msgid "Cache metadata"
+msgstr "Cache-Metadaten"
