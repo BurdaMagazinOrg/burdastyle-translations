@@ -1,10 +1,10 @@
-# German translation of Twig tweak (8.x-1.5)
-# Copyright (c) 2017 by the German translation team
+# German translation of Twig tweak (8.x-1.9)
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: Twig tweak (8.x-1.5)\n"
-"POT-Creation-Date: 2017-06-15 07:09+0000\n"
+"Project-Id-Version: Twig tweak (8.x-1.9)\n"
+"POT-Creation-Date: 2018-08-14 01:43+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -12,11 +12,7 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
-msgid "custom"
-msgstr "benutzerdefiniert"
-msgid "Link 1"
-msgstr "Link 1"
-msgid "Link 2"
-msgstr "Link 2"
-msgid "Link 3"
-msgstr "Link 3"
+msgid "Twig tweak"
+msgstr "Twig tweak"
+msgid "Provides some extra Twig functions and filters."
+msgstr "Stellt zusätzliche Twig-Funktionen und -Filter bereit."
