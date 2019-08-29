@@ -1,10 +1,10 @@
 # German translation of CSV Serialization (8.x-1.4)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: CSV Serialization (8.x-1.4)\n"
-"POT-Creation-Date: 2018-07-17 15:46+0000\n"
+"POT-Creation-Date: 2019-06-05 15:11+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -13,4 +13,10 @@ msgstr ""
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
 
 msgid "Web services"
-msgstr "Webservices"
+msgstr "Web-Dienste"
+msgid "CSV Serialization requires the League\\Csv library."
+msgstr "Das CSV-Serialization-Modul erfordert die League\\Csv-Bibliothek."
+msgid "Provides CSV as a serialization format."
+msgstr "Stellt CSV als Serialisierungsformat bereit."
+msgid "Serialization (CSV)"
+msgstr "Serialisierung (CSV)"

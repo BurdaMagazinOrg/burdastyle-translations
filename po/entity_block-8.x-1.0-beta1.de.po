@@ -1,10 +1,10 @@
 # German translation of Entity Blocks (8.x-1.0-beta1)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Entity Blocks (8.x-1.0-beta1)\n"
-"POT-Creation-Date: 2017-12-22 22:43+0000\n"
+"POT-Creation-Date: 2019-03-17 23:10+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -16,3 +16,9 @@ msgid "Entity"
 msgstr "Entität"
 msgid "View mode"
 msgstr "Ansichtsmodus"
+msgid "Entity Block"
+msgstr "Entitätsblock"
+msgid "Entity block"
+msgstr "Entitätsblock"
+msgid "Let site administrators place content entities as blocks."
+msgstr "Ermöglicht Administratoren Inhalte als Block zu platzieren."

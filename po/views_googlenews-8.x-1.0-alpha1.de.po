@@ -1,10 +1,10 @@
 # German translation of Views Google News (8.x-1.0-alpha1)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Views Google News (8.x-1.0-alpha1)\n"
-"POT-Creation-Date: 2018-06-10 14:09+0000\n"
+"POT-Creation-Date: 2019-03-01 19:49+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -17,7 +17,7 @@ msgstr "Titel"
 msgid "Documentation"
 msgstr "Dokumentation"
 msgid "- None -"
-msgstr "- Keiner -"
+msgstr "- Nicht festgelegt/ausgewählt -"
 msgid "Name"
 msgstr "Name"
 msgid "Access"

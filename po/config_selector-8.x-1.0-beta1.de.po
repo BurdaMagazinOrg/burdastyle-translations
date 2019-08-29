@@ -1,10 +1,10 @@
 # German translation of Configuration selector (8.x-1.0-beta1)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Configuration selector (8.x-1.0-beta1)\n"
-"POT-Creation-Date: 2018-11-12 15:47+0000\n"
+"POT-Creation-Date: 2019-03-03 16:47+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -79,3 +79,5 @@ msgstr ""
 "Die Konfigurationsentät <a "
 "href=\":disabled_link\">@disabled_label</a> wurde zugunsten von <a "
 "href=\":enabled_link\">@enabled_label</a> deaktiviert."
+msgid "Manage @feature"
+msgstr "@feature verwalten"

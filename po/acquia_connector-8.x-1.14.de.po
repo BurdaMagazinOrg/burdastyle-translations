@@ -1,10 +1,10 @@
 # German translation of Acquia Connector (8.x-1.14)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Acquia Connector (8.x-1.14)\n"
-"POT-Creation-Date: 2018-12-30 12:57+0000\n"
+"POT-Creation-Date: 2019-05-03 15:18+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -39,11 +39,11 @@ msgstr "Inaktiv"
 msgid "Sort by"
 msgstr "Sortieren nach"
 msgid "No results found."
-msgstr "Keine Ergebnisse."
+msgstr "Keine Ergebnisse gefunden."
 msgid "‹ Previous"
 msgstr "‹ Vorherige Seite"
 msgid "Next ›"
-msgstr "Weiter >"
+msgstr "Nächste Seite ›"
 msgid "Connect"
 msgstr "Verbinden"
 msgid "Source code"

@@ -1,10 +1,10 @@
 # German translation of Views data export (8.x-1.0-beta1)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Views data export (8.x-1.0-beta1)\n"
-"POT-Creation-Date: 2018-05-02 17:43+0000\n"
+"POT-Creation-Date: 2019-05-12 13:26+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +47,7 @@ msgstr "Kodierung"
 msgid "Attach to"
 msgstr "Anhängen an"
 msgid "Creator"
-msgstr "Ersteller"
+msgstr "Urheber"
 msgid "Displays"
 msgstr "Anzeigen"
 msgid "Multiple displays"
