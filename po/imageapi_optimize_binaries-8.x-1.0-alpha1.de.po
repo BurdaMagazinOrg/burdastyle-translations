@@ -1,10 +1,10 @@
 # German translation of Image Optimize Binaries (8.x-1.0-alpha1)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Image Optimize Binaries (8.x-1.0-alpha1)\n"
-"POT-Creation-Date: 2018-09-26 14:18+0000\n"
+"POT-Creation-Date: 2019-10-05 15:46+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -26,3 +26,15 @@ msgid "No change"
 msgstr "Keine Änderung"
 msgid "Executable"
 msgstr "Ausführbar"
+msgid "Target size"
+msgstr "Zielgröße"
+msgid "Interlace"
+msgstr "Interlace"
+msgid "<strong>Command not found</strong>"
+msgstr "<strong>Befehl nicht gefunden</strong>"
+msgid ""
+"Optionally enter a JPEG quality setting to use, 0 - 100. WARNING: "
+"LOSSY"
+msgstr ""
+"Geben Sie optional eine zu verwendende JPEG-Qualitätseinstellung ein, "
+"0 - 100. WARNUNG: VERLUSTEN"

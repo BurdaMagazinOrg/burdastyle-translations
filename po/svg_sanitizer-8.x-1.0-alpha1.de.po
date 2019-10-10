@@ -1,0 +1,20 @@
+# German translation of SVG Sanitizer (8.x-1.0-alpha1)
+# Copyright (c) 2018 by the German translation team
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SVG Sanitizer (8.x-1.0-alpha1)\n"
+"POT-Creation-Date: 2018-10-01 15:19+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Language-Team: German\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n!=1);\n"
+
+msgid "None"
+msgstr "Keine"
+msgid "Media"
+msgstr "Medien"
+msgid "Allowed tags"
+msgstr "Zulässige Tags"

@@ -1,10 +1,10 @@
 # German translation of Media Entity Browser (8.x-1.0-beta3)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Media Entity Browser (8.x-1.0-beta3)\n"
-"POT-Creation-Date: 2018-06-10 14:08+0000\n"
+"POT-Creation-Date: 2019-03-01 20:35+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -19,7 +19,7 @@ msgstr "Medien"
 msgid "Select Media"
 msgstr "Medien auswählen"
 msgid "Media Entity Browser"
-msgstr "Media Entity Browser"
+msgstr "Browser für Medienentitäten"
 msgid "This module provides an Entity Browser for Media Entity."
 msgstr ""
 "Dieses Modul ermöglicht den Einsatz eines Entitätsbrowsers für "
