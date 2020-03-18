@@ -1,10 +1,10 @@
 # German translation of Video Embed Field (8.x-2.2)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Video Embed Field (8.x-2.2)\n"
-"POT-Creation-Date: 2019-11-07 17:47+0000\n"
+"POT-Creation-Date: 2020-01-14 15:26+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -37,7 +37,7 @@ msgstr "Video"
 msgid "Autoplay"
 msgstr "Automatisch abspielen"
 msgid "Children"
-msgstr "Untergeordnet"
+msgstr "Untergeordnete Elemente"
 msgid "About"
 msgstr "Über"
 msgid "YouTube"

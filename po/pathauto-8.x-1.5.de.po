@@ -1,10 +1,10 @@
 # German translation of Pathauto (8.x-1.5)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Pathauto (8.x-1.5)\n"
-"POT-Creation-Date: 2019-10-25 01:22+0000\n"
+"POT-Creation-Date: 2020-02-13 18:58+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -505,7 +505,7 @@ msgid ""
 "currently have a pattern."
 msgstr ""
 "Aktivieren um ein Pfad-Feld hinzuzufügen mit dem Aliasmuster für den "
-"angegebenen Typ festgelegt werden kann. Deaktivierte Typen dinieren "
+"angegebenen Typ festgelegt werden kann. Deaktivierte Typen definieren "
 "bereits selbst ein Pfad-Feld oder haben bereits ein Pfadmuster."
 msgid "Broken type"
 msgstr "Defekter Typ"

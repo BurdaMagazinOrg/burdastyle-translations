@@ -1,10 +1,10 @@
 # German translation of Structure Sync (8.x-1.11)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Structure Sync (8.x-1.11)\n"
-"POT-Creation-Date: 2018-03-05 09:44+0000\n"
+"POT-Creation-Date: 2019-08-25 00:42+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -26,6 +26,8 @@ msgid "Menu links"
 msgstr "Menüeinträge"
 msgid "Enable logging"
 msgstr "Protokollierung aktivieren"
+msgid "Taxonomies"
+msgstr "Taxonomien"
 msgid "Structure"
 msgstr "Struktur"
 msgid "Custom blocks"

@@ -1,10 +1,10 @@
 # German translation of Dynamic Entity Reference (8.x-1.7)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Dynamic Entity Reference (8.x-1.7)\n"
-"POT-Creation-Date: 2019-06-08 16:02+0000\n"
+"POT-Creation-Date: 2020-01-02 11:27+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -47,7 +47,9 @@ msgstr "Beschriftung der referenzierten Entitäten anzeigen."
 msgid "Rendered entity"
 msgstr "Dargestellte Entität"
 msgid "Display the referenced entities rendered by entity_view()."
-msgstr "Zeige die referenzierten Entitäten dargestellt durch entity_view()."
+msgstr ""
+"Die referenzierten Entitäten dargestellt durch entity_view() "
+"anzeigen."
 msgid "Link label to the referenced entity"
 msgstr "Beschriftung mit der referenzierten Entität verlinken"
 msgid "Change handler"

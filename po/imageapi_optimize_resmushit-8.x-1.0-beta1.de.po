@@ -1,10 +1,10 @@
 # German translation of Image Optimize reSmush.it (8.x-1.0-beta1)
-# Copyright (c) 2018 by the German translation team
+# Copyright (c) 2019 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Image Optimize reSmush.it (8.x-1.0-beta1)\n"
-"POT-Creation-Date: 2018-08-30 19:46+0000\n"
+"POT-Creation-Date: 2019-12-09 16:19+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -14,3 +14,19 @@ msgstr ""
 
 msgid "Quality"
 msgstr "Qualität"
+msgid "JPEG image quality"
+msgstr "JPEG-Bildqualität"
+msgid "Optionally specify a quality setting when optimizing JPEG images."
+msgstr ""
+"Geben Sie optional eine Qualitätseinstellung für die Optimierung von "
+"JPEG-Bildern an."
+msgid "Failed to download optimize image using reSmush.it due to \"%error\"."
+msgstr ""
+"Das Herunterladen des optimierten Bildes mit reSmush.it konnte "
+"aufgrund des  Fehlers „%error“ nicht durchgeführt werden."
+msgid "Resmush.it"
+msgstr "Resmush.it"
+msgid "Uses the free resmush.it service to optimize images."
+msgstr "Verwendet den kostenlosen Dienst resmush.it, um Bilder zu optimieren."
+msgid "Image Optimize"
+msgstr "Image Optimize"

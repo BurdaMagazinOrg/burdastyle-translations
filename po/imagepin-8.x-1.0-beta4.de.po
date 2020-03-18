@@ -1,10 +1,10 @@
 # German translation of Imagepin (8.x-1.0-beta4)
-# Copyright (c) 2017 by the German translation team
+# Copyright (c) 2018 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Imagepin (8.x-1.0-beta4)\n"
-"POT-Creation-Date: 2017-12-08 15:43+0000\n"
+"POT-Creation-Date: 2018-08-13 10:04+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -33,4 +33,4 @@ msgstr "Verfügbar"
 msgid "Widgets"
 msgstr "Steuerelemente"
 msgid "Desktop"
-msgstr "Arbeitsfläche"
+msgstr "Desktop"

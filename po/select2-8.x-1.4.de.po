@@ -1,10 +1,10 @@
 # German translation of Select 2 (8.x-1.4)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Select 2 (8.x-1.4)\n"
-"POT-Creation-Date: 2019-08-08 14:50+0000\n"
+"POT-Creation-Date: 2020-02-18 03:35+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -40,7 +40,7 @@ msgid ""
 "of entities."
 msgstr ""
 "Methode zur Bestimmung der Vorschläge. <em>Beinhaltet</em> kann auf "
-"Seiten mit tausenden Entitäten zu Gschwindigkeitseinbußen führen."
+"Seiten mit tausenden Entitäten zu Geschwindigkeitseinbußen führen."
 msgid "Select2"
 msgstr "Select2"
 msgid "Autocomplete matching: @match_operator"

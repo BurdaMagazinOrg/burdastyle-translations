@@ -1,10 +1,10 @@
 # German translation of Recipe (8.x-2.0-alpha2)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Recipe (8.x-2.0-alpha2)\n"
-"POT-Creation-Date: 2019-10-06 07:10+0000\n"
+"POT-Creation-Date: 2020-02-12 14:22+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -120,6 +120,8 @@ msgid "Reference"
 msgstr "Referenz"
 msgid "Changed"
 msgstr "Geändert"
+msgid "names"
+msgstr "Namen"
 msgid "@type: deleted %title."
 msgstr "@type: %title wurde gelöscht."
 msgid "‹ Previous"

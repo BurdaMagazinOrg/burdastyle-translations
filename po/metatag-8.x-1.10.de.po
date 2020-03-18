@@ -1,10 +1,10 @@
 # German translation of Metatag (8.x-1.10)
-# Copyright (c) 2019 by the German translation team
+# Copyright (c) 2020 by the German translation team
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Metatag (8.x-1.10)\n"
-"POT-Creation-Date: 2019-10-04 17:18+0000\n"
+"POT-Creation-Date: 2020-02-13 19:14+0000\n"
 "PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
 "Language-Team: German\n"
 "MIME-Version: 1.0\n"
@@ -2913,3 +2913,9 @@ msgstr ""
 "sicher für Kinder. Wenn Sie der <a "
 "href='http://www.rtalabel.org/index.php?content=howto'>RTA-Dokumentation</a> "
 "folgen, sollten Sie RTA-5042-1996-1400-1577-RTA eingeben."
+msgid "Same Origin"
+msgstr "Same Origin"
+msgid "Strict Origin"
+msgstr "Strict Origin"
+msgid "Strict Origin When Cross-Origin"
+msgstr "Strict Origin When Cross-Origin"
